@@ -7,5 +7,8 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ## Github content comparison with repo
-:wq
 
+
+##This is the famous DevOps training
+
+##Fork the Repo
