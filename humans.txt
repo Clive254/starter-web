@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+Added some insert to conflict in my branch
     <name> -- <role> -- <twitter>
 
 # THANKS
