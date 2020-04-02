@@ -15,4 +15,5 @@
     jQuery, Modernizr
     JSON
     JQUERY
-    Angular
+    Angula
+# Thanks to the internet
