@@ -4,7 +4,10 @@
 # TEAM
 # Hi modified before rebase
 
-    <name> -- <role> -- <twitter>
+    <name> -- <role> -- <twitter
+    Clive DevOps
+    Kenzie FrontEnd
+    June Backend
 
 # THANKS
 
