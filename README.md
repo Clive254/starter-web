@@ -14,4 +14,6 @@ Sample website with plenty of files for demos
 ##Fork the Rep
 
 
-Adding Git Rebase notes
+Adding Git Rebase note
+
+# We have done somuch work
