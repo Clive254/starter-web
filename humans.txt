@@ -4,6 +4,7 @@
 # TEAM
 <<<<<<< HEAD
 # Hi modified before rebase
+#Adding new text
 # Alot of lectures to finish the course
 
     <name> -- <role> -- <twitter
