@@ -3,6 +3,7 @@
 
 # TEAM
 # Hi modified before rebase
+# Alot of lectures to finish the course
 
     <name> -- <role> -- <twitter
     Clive DevOps
