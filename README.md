@@ -10,6 +10,7 @@ Sample website with plenty of files for demos
 
 
 ##This is the famous DevOps training
+## Still many lectures to go
 
 ##Fork the Rep
 
