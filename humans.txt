@@ -2,6 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
+<<<<<<< HEAD
 # Hi modified before rebase
 # Alot of lectures to finish the course
 
@@ -9,6 +10,10 @@
     Clive DevOps
     Kenzie FrontEnd
     June Backend
+
+Added some insert to conflict in my branch
+    <name> -- <role> -- <twitter>
+>>>>>>> mybranch
 
 # THANKS
 
