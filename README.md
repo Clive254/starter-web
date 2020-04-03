@@ -16,5 +16,5 @@ Sample website with plenty of files for demos
 
 
 Adding Git Rebase note
-
+Adding new files
 # We have done somuch work
